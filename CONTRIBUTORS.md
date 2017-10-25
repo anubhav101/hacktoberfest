@@ -16618,6 +16618,7 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer
 - GitHub: [rafaelbezerra195](https://github.com/rafaelbezerra195)
 
+
 #### Name: [Raghu](https://github.com/FarmboyRaghu)
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
@@ -16667,3 +16668,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Anubhav](https://github.com/anubhav101)
+- Place: Hisar, Haryana, India
+- Bio: IIT Patna Freshmen Year CSE
+- GitHub: [anubhav101](https://github.com/anubhav101)
